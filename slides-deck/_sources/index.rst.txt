@@ -23,10 +23,10 @@ Agenda
 * COVID-19 acelerou a tendência
 * Modelo de trabalho híbrido?
 * Padrões de comunicação
-* Trazendo as coisas boas do presencial
-* Sendo um trabalhador distribuído
-* Referências
+* Reuniões e senso de urgência
+* Socialize e celebre
 * Perguntas
+* Referências
 
 .. image:: _static/planning.png
     :width: 450
@@ -569,8 +569,8 @@ Senso de urgência
 - Urgente e não importante: :emphasize:`Evite`
 - Não urgente e não importante: :emphasize:`Elimine`
 
-Sugestões para trabalho em equipe
----------------------------------
+Reuniões
+--------
 
 - Tenha uma :emphasize:`rotina clara` com a sua equipe
 - Se você agendar uma :emphasize:`reunião`, forneça o máximo de contexto antes de iniciar
@@ -592,6 +592,48 @@ Sugestões para trabalho em equipe
 .. rst-class:: citation-reference
 
 Fonte: https://workchronicles.com/
+
+Comprometimento
+---------------
+
+- Trabalhar distribuído lhe dá mais liberdade, mas isso deve ser acompanhado de :emphasize:`responsabilidade`.
+- :emphasize:`Confiança e transparência` são essenciais.
+- O :emphasize:`engajamento` ocorre quando o trabalho se torna interessante
+
+  - A distância física deixa de ser uma barreira para encontrar as :emphasize:`pessoas e as empresas certas`.
+
+- Uma :emphasize:`prova de trabalho` realizado é mais valiosa que estar fisicamente presente 8 horas por dia.
+
+.. rst-class:: centered-image-slide
+
+Socialize com a equipe
+----------------------
+
+.. image:: _static/wonder.png
+    :width: 800
+    :align: center
+
+https://wonder.me
+
+.. rst-class:: centered-image-slide
+
+Socialize com a equipe
+----------------------
+
+.. image:: _static/donnut.png
+    :width: 800
+    :align: center
+
+https://donnut.com
+
+.. rst-class:: centered-image-slide
+
+Celebre as conquistas
+---------------------
+
+.. image:: _static/celebrate.png
+    :width: 600
+    :align: center
 
 .. rst-class:: no-title centered-image-slide
 
@@ -625,3 +667,11 @@ Estamos contratando: https://jobs.lever.co/loadsmart/
 .. rst-class:: perguntas
 
 Perguntas?
+
+Referências
+-----------------
+
+- Podcast: Distributed, with Matt Mullenweg - https://distributed.blog/podcast/
+- Officeless - https://www.officeless.cc/
+- Remote: Office not required - https://www.amazon.com.br/Remote-Office-Required-Jason-Fried/dp/0804137501
+- The definitive guide to remote development teams - https://x-team.com/blog/remote-team-guide/
